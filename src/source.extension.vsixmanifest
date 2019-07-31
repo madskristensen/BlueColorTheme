@@ -2,7 +2,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="efb2984f-c529-413f-b717-1e3d44a495a7" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
-        <DisplayName>Original Blue Color Theme</DisplayName>
+        <DisplayName>Original Blue Theme</DisplayName>
         <Description xml:space="preserve">The original blue color theme from Visual Studio 2017</Description>
         <MoreInfo>https://github.com/madskristensen/BlueColorTheme</MoreInfo>
         <License>Resources\LICENSE</License>

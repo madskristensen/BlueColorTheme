@@ -1,5 +1,5 @@
 # Original Blue Color Theme
-[![Build status](https://ci.appveyor.com/api/projects/status/bh50nba9a5o8y5sf?svg=true)](https://ci.appveyor.com/project/madskristensen/codecleanuponsave)
+[![Build status](https://ci.appveyor.com/api/projects/status/a2hc6pqx4wvvske4?svg=true)](https://ci.appveyor.com/project/madskristensen/bluecolortheme)
 
 Download the extension at the
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CodeCleanupOnSave)

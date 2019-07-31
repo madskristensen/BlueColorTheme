@@ -4,6 +4,7 @@
         <Identity Id="efb2984f-c529-413f-b717-1e3d44a495a7" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
         <DisplayName>Original Blue Color Theme</DisplayName>
         <Description xml:space="preserve">The original blue color theme from Visual Studio 2017</Description>
+        <MoreInfo>https://github.com/madskristensen/BlueColorTheme</MoreInfo>
         <License>Resources\LICENSE</License>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>

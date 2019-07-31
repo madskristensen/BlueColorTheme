@@ -2,7 +2,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/a2hc6pqx4wvvske4?svg=true)](https://ci.appveyor.com/project/madskristensen/bluecolortheme)
 
 Download the extension at the
-[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CodeCleanupOnSave)
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BlueColorTheme)
 or try the
 [CI build](http://vsixgallery.com/extension/efb2984f-c529-413f-b717-1e3d44a495a7/).
 

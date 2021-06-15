@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
-    <Metadata>
-        <Identity Id="efb2984f-c529-413f-b717-1e3d44a495a7" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
-        <DisplayName>Original Blue Theme</DisplayName>
-        <Description xml:space="preserve">The original blue color theme from Visual Studio 2017</Description>
-        <MoreInfo>https://github.com/madskristensen/BlueColorTheme</MoreInfo>
-        <License>Resources\LICENSE</License>
-        <Icon>Resources\Icon.png</Icon>
-        <PreviewImage>Resources\Icon.png</PreviewImage>
-        <Tags>theme</Tags>
-        <Preview>true</Preview>
-    </Metadata>
-    <Installation>
-        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
-    </Installation>
-    <Dependencies>
-        <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
-    </Dependencies>
-    <Prerequisites>
-        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[16.0,17.0)" DisplayName="Visual Studio core editor" />
-    </Prerequisites>
+  <Metadata>
+    <Identity Id="efb2984f-c529-413f-b717-1e3d44a495a7" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
+    <DisplayName>Original Blue Theme</DisplayName>
+    <Description xml:space="preserve">The original blue color theme from Visual Studio 2017</Description>
+    <MoreInfo>https://github.com/madskristensen/BlueColorTheme</MoreInfo>
+    <License>Resources\LICENSE</License>
+    <Icon>Resources\Icon.png</Icon>
+    <PreviewImage>Resources\Icon.png</PreviewImage>
+    <Tags>theme</Tags>
+    <Preview>true</Preview>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+  </Installation>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[16.0,)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
 </PackageManifest>
